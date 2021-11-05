@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="spin">Choose</string>
+
+    <string name="words_selection">Words</string>
+    <string name="spellingChars_selection">Spelling characters</string>
+    <string-array name="spinnerItems">
+    <item>Words</item>
+    <item>Spelling characters</item>
+</string-array>
+</resources>
